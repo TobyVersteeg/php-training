@@ -1,0 +1,19 @@
+{
+    "autoload": {
+
+        "classmap": [
+
+            "./"
+
+        ]
+    },
+    "name": "tobyversteeg/php-training",
+    "description": "PHP code along",
+    "authors": [{
+        "name": "Toby Versteeg",
+        "email": "toby.versteeg@gmail.com"
+    }],
+    "require": {
+        "vlucas/phpdotenv": "^5.2"
+    }
+}
